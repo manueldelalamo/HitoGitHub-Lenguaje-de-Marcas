@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cambio.xsl"?>
+<campos>
+  <campo>
+    <nombre>Vicente Calderón</nombre>
+    <capacidad>54.907 espectadores</capacidad>
+    <dimensiones>105 x 68 m</dimensiones>
+    <foto>imagenes/calderon3.jpg</foto>
+  </campo>
+  <campo>
+    <nombre>Benito Villamarín</nombre>
+    <capacidad>60.721 espectadores</capacidad>
+    <dimensiones>105 x 68 m</dimensiones>
+    <foto>imagenes/benito3.jpg</foto>
+  </campo>
+  <campo>
+    <nombre>Anfield</nombre>
+    <capacidad>54.074 espectadores</capacidad>
+    <dimensiones>101 x 68 m</dimensiones>
+    <foto>imagenes/anfield3.jpg</foto>
+  </campo>
+</campos>
